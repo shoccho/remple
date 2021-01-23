@@ -11,7 +11,7 @@ title: About
 
 ## **Achievements**
 ---
-* Participated in ICPC Dhaka Regional Site 2018
+* Contestant of ICPC Dhaka Regional Site 2018
 * Champion of Daffodil International University Take-Off programming contest *fall 2018*
 
 ## **Certifications**
@@ -43,8 +43,8 @@ title: About
 
 ## **Skills**
 ---
-* **Languages:** Python, C++, JavaScript, SQL, Java
-* **Technologies:** Git, Linux, Android
+* **Languages:** Python, C++, JavaScript, SQL, Java, Go
+* **Technologies:** Git, Linux, Android, Arduino
 
 ## **Contact**
 ---
